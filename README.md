@@ -11,6 +11,6 @@ Omar Talavera. Estudiante de programación con ganas de expandir sus horizontes
 - MySQL
 
 ## Proyectos
-- [Nombre del Proyecto 1](URL-del-repositorio)
-- [Nombre del Proyecto 2](URL-del-repositorio)
-- [Nombre del Proyecto 3](URL-del-repositorio)
+- [Mini juego de Pokemon en Java](https://github.com/omarole/MinijuegoPokemon)
+- [Primera página con funciones HTML, CSS y JavaScript](https://github.com/omarole/PrimeraPagina)
+- [Actividades varias en PHP](https://github.com/omarole/actividades)
